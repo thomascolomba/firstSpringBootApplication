@@ -18,18 +18,4 @@
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
 	</dependencies>
-	<description/>
-	<developers>
-		<developer/>
-	</developers>
-	<licenses>
-		<license/>
-	</licenses>
-	<scm>
-		<url/>
-	</scm>
-	<url/>
-
-	<!-- Additional lines to be added here... -->
-
 </project>
